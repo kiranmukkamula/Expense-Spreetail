@@ -20,6 +20,6 @@ services:
       - key: SECRET_KEY
         generateValue: true
       - key: ALLOWED_ORIGINS
-        value: https://frontend-two-sooty-11.vercel.app
+        value: https://frontend-beta-teal-18.vercel.app
       - key: PYTHON_VERSION
         value: "3.11.0"
