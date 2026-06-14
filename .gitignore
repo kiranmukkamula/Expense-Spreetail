@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Database
+backend/split_expenser.db
+
+# Environment secrets - NEVER commit these
+.env
+backend/.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
