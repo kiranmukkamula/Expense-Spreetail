@@ -23,7 +23,7 @@ This project was built with the assistance of the following AI tools:
 
 | Service | URL |
 | :--- | :--- |
-| **Frontend (Vercel)** | https://frontend-two-sooty-11.vercel.app |
+| **Frontend (Vercel)** | https://frontend-beta-teal-18.vercel.app |
 | **Backend API (Render)** | https://split-expenser-backend.onrender.com |
 | **API Docs (Swagger)** | https://split-expenser-backend.onrender.com/docs |
 
